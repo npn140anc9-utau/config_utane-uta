@@ -1,5 +1,5 @@
-* actually took the time to edit the .frq files too
-* ```お.wav``` is identical to ```を.wav```
+* reccommend also editing `*.frq`
+* `お.wav` is identical to `を.wav`
 
 | エイリアス | 解説
 | - | -
@@ -25,11 +25,11 @@
 | ギェ | /ŋje/
 | ギョ | /ŋjo/
 | ギュ | /ŋjɯ/
-| E | 中国語/ɤ/
+| E | /ɤ/中国語用
 | A | /ʌ/
 | O | /ɔ/~/ɑ/
 | ru2 | ?
-| rr | 英語/ɹ/~/ɝ/
+| rr | /ɹ/~/ɝ/英語用。「お段」とのクロスフェードを薦める
 | yv | /jy/
 | v2 | /y/
 | s | /s/
@@ -45,5 +45,5 @@
 | ts | /ts/
 | ts2 | /ts/
 | u2 | /u/
-| E2 | 中国語/ɤ/
+| E2 | /ɤ/中国語用
 | z | /z/
